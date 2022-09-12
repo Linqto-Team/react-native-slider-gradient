@@ -1,5 +1,5 @@
 {
-  "name": "@ptomasroos/react-native-multi-slider",
+  "name": "@sxrthxk/rn-slider-gradient",
   "version": "2.2.2",
   "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
   "main": "MultiSlider.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptomasroos/react-native-multi-slider.git"
+    "url": "git+https://github.com/sxrthxk/rn-slider-gradient.git"
   },
   "keywords": [
     "react-native-multi-slider",
@@ -35,7 +35,7 @@
       "git add"
     ]
   },
-  "author": "Tomas Roos <ptomasroos@gmail.com>",
+  "author": "Tomas Roos <ptomasroos@gmail.com>, forked by Sarthak Gupta",
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
