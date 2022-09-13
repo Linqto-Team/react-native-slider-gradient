@@ -1,5 +1,5 @@
 {
-  "name": "@sxrthxk/rn-slider-gradient",
+  "name": "@anqdigitalfinserv/react-native-slider-gradient",
   "version": "2.2.2",
   "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
   "main": "MultiSlider.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sxrthxk/rn-slider-gradient.git"
+    "url": "git+https://github.com/ANQDigitalFinserv/react-native-slider-gradient.git"
   },
   "keywords": [
     "react-native-multi-slider",
