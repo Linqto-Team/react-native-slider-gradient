@@ -30,9 +30,9 @@ const styles = StyleSheet.create({
   markerStyle: {
     ...Platform.select({
       ios: {
-        height: 30,
-        width: 30,
-        borderRadius: 30,
+        height: 25,
+        width: 25,
+        borderRadius: 25,
         borderWidth: 1,
         borderColor: '#DDDDDD',
         backgroundColor: '#FFFFFF',
@@ -45,9 +45,9 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.2,
       },
       android: {
-        height: 30,
-        width: 30,
-        borderRadius: 30,
+        height: 25,
+        width: 25,
+        borderRadius: 25,
         borderWidth: 1,
         borderColor: '#DDDDDD',
         backgroundColor: '#FFFFFF',
