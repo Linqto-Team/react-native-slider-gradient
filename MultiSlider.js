@@ -86,14 +86,14 @@ export default class MultiSlider extends React.Component {
       ),
     );
 
-    var tempStepsAs = {};
+    var tempStepsAs = [];
     this.props.stepsAs.forEach(step => {
       if (step?.index !== undefined) {
         tempStepsAs[step?.index] = step;
       }
     });
 
-    this.stepsAs = {};
+    this.stepsAs = [];
     this.optionsArray.forEach((ops, index) => {
       if (tempStepsAs[index]) {
         var step = tempStepsAs[index];
